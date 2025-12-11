@@ -1,4 +1,6 @@
-# Awesome [Region/Topic] Travel 🌍
+# Awesome [Region/Topic] Travel [![Awesome Travel](https://srv-cdn.himpfen.io/badges/awesome-travel/awesometravel-flat.svg)](https://github.com/brandontravel/awesome)
+
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
 
 > A curated list of **resources, guides, tools, and communities** for [describe your target audience, e.g. solo travelers / digital nomads / budget travelers] in **[Region or Country]**.
 
